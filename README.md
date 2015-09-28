@@ -190,6 +190,7 @@ How to change the name
     DESCRIBE score;
 
 hash to comment
+
 /* Multiline comment */
 
 If i am going to input data to a table
